@@ -12,7 +12,7 @@
 
 
 # How To Use
-1. Download [charming.exe]()
+1. Download [charming.exe](https://github.com/WalmartSolutions/Charming/raw/refs/heads/main/charming.exe)
 4. Run charming.exe.
 5. Enjoy.
 
